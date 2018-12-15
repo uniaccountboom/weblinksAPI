@@ -1,0 +1,17 @@
+{
+  "name": "sia",
+  "version": "1.0.1",
+  "description": "sia im teaching you web stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viku",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "multer": "^1.4.1",
+    "sqlite3": "^4.0.4"
+  }
+}
